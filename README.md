@@ -22,8 +22,8 @@ or 链接：https://pan.baidu.com/s/1uTimeeyOM8zlVXRxBab4xg
 提取码：mow4 
 ***
 UNETR model：https://drive.google.com/file/d/1SkeDVLcNzi8eqipgpMyMDeG0h28E8nT2/view?usp=drive_link
-or 链接：https://pan.baidu.com/s/1MkWX9r_77hmxfa-1Yuf4OQ 
-提取码：6pk7 
+or 链接：https://pan.baidu.com/s/1M8GCfe0Af4aK6G88dkqWNQ 
+提取码：t3dv 
 ***
 3DUNet model：https://drive.google.com/file/d/1Xt7CLODmEoENwHIp1OXAWqRsf6ClKvVQ/view?usp=drive_link
 or 链接：https://pan.baidu.com/s/1RpUh3f3NxdFi8lbWgnXTWA 
