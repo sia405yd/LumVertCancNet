@@ -21,7 +21,7 @@ AttentionUNet model：https://drive.google.com/file/d/15-k1hTxQHTGhtd3nPPC2DUy85
 or 链接：https://pan.baidu.com/s/1uTimeeyOM8zlVXRxBab4xg 
 提取码：mow4 
 ***
-UNETR model：https://drive.google.com/file/d/15-k1hTxQHTGhtd3nPPC2DUy85E9rctpe/view?usp=drive_link
+UNETR model：https://drive.google.com/file/d/1SkeDVLcNzi8eqipgpMyMDeG0h28E8nT2/view?usp=drive_link
 or 链接：https://pan.baidu.com/s/1MkWX9r_77hmxfa-1Yuf4OQ 
 提取码：6pk7 
 ***
