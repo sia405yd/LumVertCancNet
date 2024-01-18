@@ -13,7 +13,7 @@ nnunet model：https://drive.google.com/file/d/1rOJqiept70KQIQQAHkbIYLkZWk3tmT3Z
 or 链接：https://pan.baidu.com/s/1UJ6No85cLsphCmuQz6QxNg 
 提取码：06yc 
 ***
-VNet model：https://drive.google.com/file/d/1rOJqiept70KQIQQAHkbIYLkZWk3tmT3Z/view?usp=drive_link
+VNet model：https://drive.google.com/file/d/1tvX5Vm7Fe-gcUwbsT7mjEyrAvR1eSDxP/view?usp=drive_link
 or 链接：https://pan.baidu.com/s/1B2LMFGMtih3FJVMATh9Iog 
 提取码：xi8r 
 ***
